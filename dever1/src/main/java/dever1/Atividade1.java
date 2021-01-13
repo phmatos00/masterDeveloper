@@ -22,7 +22,7 @@ public class Atividade1 {
 		
 		double imc = peso / (altura * altura);
 		
-		System.out.println("Imc = " + imc);
+		System.out.println("Imc   = " + imc);
 		
 		
 		
