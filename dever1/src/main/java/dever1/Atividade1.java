@@ -7,7 +7,7 @@ public class Atividade1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
+        /*
 		System.out.println("Nome  ");
 		String nome = Console.readString();
 		
@@ -23,6 +23,19 @@ public class Atividade1 {
 		double imc = peso / (altura * altura);
 		
 		System.out.println("Imc = " + imc);
+		
+		
+		if (imc >= 35) 
+		System.out.println("Precisa de Cirurgia! ");	
+		
+		
+		else 
+	    System.out.println("Não precisa de cirurgia! ");
+		
+		System.out.println(" ***FIM DO PROGRAMA *** ");
+		*/
+		
+		
 		
 		
 		
