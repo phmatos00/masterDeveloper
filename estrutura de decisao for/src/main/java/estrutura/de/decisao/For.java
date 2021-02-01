@@ -1,13 +1,13 @@
-package dever1;
+package estrutura.de.decisao;
+
 
 import br.com.softblue.commons.io.Console;
 
-public class Atividade1 {
+public class For {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-        
+		
+					
 		System.out.println("Nome  ");
 		String nome = Console.readString();
 		
@@ -36,6 +36,7 @@ public class Atividade1 {
 		
 		
 		
+        
 		
 		
 		
